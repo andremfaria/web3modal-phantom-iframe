@@ -5,7 +5,7 @@ npm install
 npm run dev
 ```
 
-To resolve the issue, please follow these steps:
+To reproduce the issue, please follow these steps:
 
 1. Access `http://localhost:3002/iframe.html` in your web browser.
 2. Click on the "Connect" button and select "Phantom" from the wallet list.
